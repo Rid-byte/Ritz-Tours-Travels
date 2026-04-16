@@ -30,7 +30,7 @@ This project was designed, deployed, and delivered as part of a professional web
 
 ## 🔗 Project Links
 
-- **Live Project**: [Ritz Tours & Travels]([https://ritztourtravels.in/])  
+- **Live Project**: [Ritz Tours & Travels](https://ritztourtravels.in/)  
 - **GitHub Repository**: [ritz_tours_travels](https://github.com/Rid-byte/ritz_tours_travels)
 
 ---
