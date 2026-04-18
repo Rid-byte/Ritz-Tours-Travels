@@ -11,7 +11,7 @@ This project was designed, deployed, and delivered as part of a professional web
 - 🛫 **Travel Packages** – Explore tours, itineraries, and pricing dynamically  
 - 🗄️ **Database Integration** – Laravel + MySQL for robust backend functionality  
 - 🔒 **Authentication** – Secure login and role-based access control  
-- 🎨 **Modern UI** – Clean, user-friendly interface with jQuery interactivity  
+- 🎨 **Modern UI** – Clean, user-friendly interface with jQuery interactivity 
 - 🌍 **Official Deployment** – Successfully hosted and maintained for Ritz Tours & Travels  
 
 ---
